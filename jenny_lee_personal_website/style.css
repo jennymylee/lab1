@@ -1,0 +1,83 @@
+* {
+    padding:0px;
+    margin:0px;
+    border-width: 0px;
+}
+
+.flexbox-allportfolios {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;    
+}
+
+.flexbox-individualproject {
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    margin: 3px;
+    padding: 10px;
+}
+
+.projectDescription {
+    height: auto;
+    width: 350px;
+}
+
+#biosection {
+    background-color: lightblue;
+}
+
+#portfoliosection {
+    background-color: white;
+}
+
+
+h1 {
+    color: black;
+    font-family: 'Palatino';
+    font-size: 50px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+h2 {
+    color: black;
+    font-family: 'Palatino';
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+h3 {
+    color: blue;
+    font-family: 'Palatino';
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 5px;
+}
+h4 {
+    color: blue;
+    font-family: 'Palatino';
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+p {
+    font-family: 'Palatino';
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 5px;
+}
+
+body {
+    background: white;
+}
+
+#GraphitePainting {
+    margin-left: 5px;
+}
+
+img {
+    height: 200px;
+    width: auto;
+    filter: contrast(130%);
+}
